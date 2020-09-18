@@ -1,2 +1,1 @@
-include ':app'
-rootProject.name = "ding"
+include ':app', ':multiple-status-view'
